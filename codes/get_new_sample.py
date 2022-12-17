@@ -79,7 +79,7 @@ def update_regions_online_traffic(shp_address, API_url, API_key, output_file_add
          
 
 API_url = 'https://maps.googleapis.com/maps/api/distancematrix/json?departure_time=now&traffic_model=best_guess'
-output_file_address = "../traffic_data.xlsx"
+output_file_address = "../protest_days/traffic_data.xlsx"
 shp_address = '../regions_shapefiles/mahale.shp'
 
 
