@@ -1,5 +1,5 @@
 # traffic
-monitoring the geographical distribution of protests in Tehran using Google Maps traffic data
+Monitoring the geographical distribution of protests in Tehran using Google Maps traffic data
 
 This code compares traffic in Tehran's neighborhoods in specific days of protests to the usual traffic. 
 
